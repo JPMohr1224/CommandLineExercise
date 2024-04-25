@@ -1,0 +1,14 @@
+/Users/jamesmohr/Desktop/repos/HelloWorld/HelloWorld/bin/Debug/net8.0/HelloWorld
+/Users/jamesmohr/Desktop/repos/HelloWorld/HelloWorld/bin/Debug/net8.0/HelloWorld.deps.json
+/Users/jamesmohr/Desktop/repos/HelloWorld/HelloWorld/bin/Debug/net8.0/HelloWorld.runtimeconfig.json
+/Users/jamesmohr/Desktop/repos/HelloWorld/HelloWorld/bin/Debug/net8.0/HelloWorld.dll
+/Users/jamesmohr/Desktop/repos/HelloWorld/HelloWorld/bin/Debug/net8.0/HelloWorld.pdb
+/Users/jamesmohr/Desktop/repos/HelloWorld/HelloWorld/obj/Debug/net8.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamesmohr/Desktop/repos/HelloWorld/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/jamesmohr/Desktop/repos/HelloWorld/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfo.cs
+/Users/jamesmohr/Desktop/repos/HelloWorld/HelloWorld/obj/Debug/net8.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/jamesmohr/Desktop/repos/HelloWorld/HelloWorld/obj/Debug/net8.0/HelloWorld.dll
+/Users/jamesmohr/Desktop/repos/HelloWorld/HelloWorld/obj/Debug/net8.0/refint/HelloWorld.dll
+/Users/jamesmohr/Desktop/repos/HelloWorld/HelloWorld/obj/Debug/net8.0/HelloWorld.pdb
+/Users/jamesmohr/Desktop/repos/HelloWorld/HelloWorld/obj/Debug/net8.0/HelloWorld.genruntimeconfig.cache
+/Users/jamesmohr/Desktop/repos/HelloWorld/HelloWorld/obj/Debug/net8.0/ref/HelloWorld.dll
